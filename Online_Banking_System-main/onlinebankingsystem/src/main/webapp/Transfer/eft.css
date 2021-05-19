@@ -1,0 +1,38 @@
+@charset "UTF-8";
+.menu{
+float:left;
+
+}
+.transfer{
+
+margin-left:700px;
+	background-color:white;
+	width:40%;
+	border:1px solid;
+	border-radius:10px;
+	padding:10px;
+	margin-top:20px;
+	padding-bottom:40px;
+	height:520px;
+}
+.eft{
+	text-align:center;
+}
+.numara{
+	font-size:15px;
+	margin:3px;
+	width:300px;
+	height:40px;
+	text-align:center;
+}
+.gonder{
+	padding:10px;
+	width:180px;
+	margin-top:30px;
+	margin-left:0px;
+	font-size:17px;
+}
+.input1{
+	margin-left:300px;
+	
+}

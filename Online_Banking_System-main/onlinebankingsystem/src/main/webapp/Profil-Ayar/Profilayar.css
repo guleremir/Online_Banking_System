@@ -1,0 +1,44 @@
+@charset "UTF-8";
+.ilkclass{
+	margin-left:700px;
+	background-color:white;
+	width:40%;
+	border:1px solid;
+	border-radius:10px;
+	padding:10px;
+	margin-top:20px;
+	padding-bottom:40px;
+	height:520px;
+	
+}
+.menu{
+	float:left;
+}
+
+.buton1{
+ text-decoration:none;
+color:black; 
+float:right;
+padding:10px;
+margin:7px;
+margin-right:300px;
+
+
+}
+
+body{
+	background-color:#E9E9E9;
+	}
+	.cizgi{
+	width:32%;
+	margin-left:45px;
+	}
+	.baslik2{
+	font-size:19px;
+	margin-left:45px;
+	}
+	.baslik{
+	margin-left:45px;}
+	.yazi{
+	font-size:17px;
+	margin-left:45px;}

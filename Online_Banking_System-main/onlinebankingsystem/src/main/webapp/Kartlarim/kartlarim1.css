@@ -1,0 +1,70 @@
+@charset "UTF-8";
+
+.table{
+border : 2px solid gray;
+width: 30%;
+border-radius:12px;
+padding:8px;
+margin: 5px;
+margin-left:40px;
+}
+.ücüncü{
+	
+	color:black;
+	padding:4px;
+	margin-top:0px;
+	text-decoration:none;
+	display:inline-block;
+
+	
+}
+.kutu:hover {
+	background-color: grey;	
+	color:white;
+    
+    
+	
+	}
+	.ikinci{
+
+	margin-left:300px;
+	
+	}
+.kutu{
+	margin-top:10px;
+	margin-left:50px;
+	background-color:white;
+	width:30%;
+	border:1px solid;
+	border-radius:15px;
+	padding:2px;
+	position:absolute;
+	color:black;
+}
+h1{
+	margin-left:50px;
+	margin-top:50px;
+}
+#home{
+	margin-left:40px;
+	
+
+}
+i {
+	margin-left:40px;
+	padding-left:10px;
+	
+	
+}
+
+html{
+	background-color:#E9E9E9;
+}
+
+.ikinci{
+	height:400px;
+}
+.menu{
+	float:left;
+	
+}

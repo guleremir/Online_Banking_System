@@ -1,0 +1,89 @@
+@charset "UTF-8";
+html{ 
+background-color:#E9E9E9;
+}
+.kutu{
+position:fixed;
+width:400px;
+height:300px;
+background-color:white;
+border-radius: 12px;
+}
+#kredi{
+text-align:left;
+position:absolute;
+left:410px;
+top: 210px;
+
+
+}
+#banka{
+text-align:left;
+position:absolute;
+left:885px;
+top: 210px;
+
+
+}
+#sanal{
+text-align:left;
+position:absolute;
+left:1360px;
+top: 210px;
+
+
+}
+#kutu2{
+text-align:left;
+position:absolute;
+left:780px;
+top: 550px;
+background-color:white;
+width:600px;
+height:340px;
+border-radius: 12px;
+
+
+
+
+
+}
+p{
+padding-left:20px;
+padding-right:20px;
+margin-top:2px;
+text-align:center;
+}
+img{
+
+
+
+
+border-radius:12px;
+width:75%;
+margin:30px;
+
+
+
+}
+
+h2{
+    text-align:center;
+
+
+}
+h1{
+    margin-left:970px;
+    padding:10px;
+    font-size:40px;
+}
+#yurt{
+    width:47%;
+}
+.ilk{
+    height:670px;
+}
+.link{
+    text-decoration:none;
+    color:black;
+}

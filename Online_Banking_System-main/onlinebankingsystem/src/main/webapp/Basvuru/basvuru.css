@@ -1,0 +1,96 @@
+@charset "UTF-8";
+body{
+background-color:#E9E9E9;
+}
+
+#ana-div{
+
+text-align:center;
+width:100%;
+
+}
+.m{
+    float:left;
+    margin-top:0
+    }
+img{
+
+float:right;
+width:40%;
+margin-right: 25px;
+border-radius:12px;
+
+
+}
+
+.box{
+
+width:570px;
+height:300px;
+background-color:white;
+ border-radius: 12px;
+}
+#kredi{
+text-align:left;
+position:absolute;
+left:410px;
+top: 220px;
+
+
+}
+#kart{
+text-align:left;
+position:absolute;
+left:1110px;
+top: 220px;;
+
+
+}
+#emeklilik{
+text-align:left;
+position:absolute;
+left:410px;
+bottom: 110px;
+
+
+}
+#sigorta{
+text-align:left;
+position:absolute;
+left:1100px;
+bottom: 110px;
+
+
+}
+h1{
+margin-left:920px;
+padding:20px;
+font-size:40px;
+ }
+h2{
+padding:40px;
+
+padding-bottom:15px;}
+
+ul { list-style-type:none; }
+a {
+     text-decoration: none;
+
+     color: black;
+    }
+.list{
+font-size:20px;
+padding:2px;
+
+}
+.list:hover{
+width:50%;
+font-size:20px;
+padding:2px;
+background-color:#E9E9E9;
+border:1px solid;
+border-radius:10px;
+}
+.baslangic{
+    height:750px;
+}

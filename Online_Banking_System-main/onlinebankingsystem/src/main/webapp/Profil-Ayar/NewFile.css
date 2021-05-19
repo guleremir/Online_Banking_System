@@ -1,0 +1,33 @@
+@charset "UTF-8";
+.menu{
+	float:left;
+	}
+	.hepsi{
+	margin-left:700px;
+	
+	background-color:white;
+	width:20%;
+	height:330px;
+	border:1px solid;
+	border-radius:10px;
+	padding:10px;
+	margin-top:20px;
+	text-align:center;
+	}
+	
+	.text{
+	padding:8px;
+	margin:3px;
+	margin-left:10px;
+	width:250px;
+	
+	}
+.change{
+	margin-left:10px;
+	margin-top:40px;
+	padding:10px;
+	font-weight:bold;
+}
+html{
+	background-color:#E9E9E9;
+}

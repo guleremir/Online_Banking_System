@@ -1,0 +1,160 @@
+body{
+	margin:0;
+	padding:0;
+	background: #add8e6;
+	font-family:sans-serif;
+	background-size:cover;
+}
+.LoginBox{
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform:translate(-50%,-50%);
+	width:350px;
+	height:420px;
+	padding: 80px  40 px;
+	box-sizing: border-box;
+	background: rgba(0,0,0,.5);
+}
+.menuBox{
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform:translate(-50%,-50%);
+	width:1200px;
+	height:500px;
+	padding:80px 40px;
+	box-sizing: border-box;
+	background: rgba(0,0,0,.5);
+}
+.user{
+	width:100px;
+	height:100px;
+	border-radius:50%;
+	overflow:hidden;
+	position:absolute;
+	top:calc(-100px/2);
+	left:calc(50% - 50px);
+	
+	
+}
+
+h2{
+	margin:0;
+	padding: 0 0 20px;
+	color:#cfed40 ;
+	text-align:center;
+}
+h3{
+	color:#cfed40;
+}
+h1{
+	color:#cfed40;
+	text-align:center;
+}
+.LoginBox p{
+	margin:0;
+	padding:0;
+	font-weight:bold;
+	color:#fff;
+}
+.LoginBox input{
+	width:100%;
+	margin-bottom:20px;
+}
+.LoginBox input[type="text"],
+.LoginBox input[type="password"]
+{
+	border:none;
+	border-bottom: 1px solid #fff;
+	background:transparent;
+	outline:none;
+	height:40px;
+	color:#fff;
+	font-size:16px;
+}
+::placeholder{
+	color:rgba(255,255,255,.5);
+}
+.LoginBox input[type=submit]
+{
+	border:none;
+	outline:none;
+	height:40px;
+	color:#fff;
+	font-size:16px;
+	background:#ff267e;
+	cursor:pointer;
+	border-radius:20px;
+}
+.LoginBox input[type=submit]:hover{
+	background:#efed40;
+	color:#262626;
+	
+}
+.LoginBox a{
+	color:#fff;
+}
+ul{
+	list-style-type:none;
+	margin:0;
+	padding:10px;
+	overflow:hidden;
+	background-color:#333;
+	
+}
+li{
+	float:Right;
+	
+}
+li a {
+	display:inline-block;
+	color:white;
+	text-align:center;
+	padding:16px 14px;
+	text-decoration:none;
+	
+}
+li a:hover{
+	background-color:skyblue;
+	
+}
+.active{
+	background-color:red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

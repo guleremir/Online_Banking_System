@@ -1,0 +1,93 @@
+@charset "ISO-8859-1";
+
+.ücüncü{
+	
+	color:black;
+	padding:4px;
+	margin-top:0px;
+	text-decoration:none;
+	display:inline-block;
+}
+html{
+	background-color:#E9E9E9;
+}
+
+.menu{
+	float:left;
+	
+}
+i {
+	margin-left:40px;
+	padding-left:10px;
+}
+h1{
+	margin-left:100px;
+	margin-top:50px;
+	text-align:center;
+}
+h3{
+	margin-left:100px;
+	margin-top:50px;
+	text-align:center;
+}
+#button1{
+  border: none;
+  border-radius:30px;
+  color: white;
+  background-color:red;
+  padding: 15px 500px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  margin: 0px 400px;
+  cursor: pointer;
+}
+#baslik{
+	margin-left:330px;
+	margin-bottom:10px;
+	padding:2px;	
+}
+#button2{
+	
+	border: none;
+	border-radius:30px;
+  color: white;
+  background-color:red;
+  padding: 15px 80px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-top:30px;
+  margin-left: 410px;;
+  margin-right:50px; 
+  cursor: pointer;
+  width:25%;  
+  }
+  #button3{
+	border: none;
+	border-radius:30px;
+  color: white;
+  background-color:red;
+  padding: 15px 80px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-top: 30px ;
+  width:25%;
+  cursor: pointer;
+  width:30%;}
+  .kart{
+  font-size:19px;
+  }
+  .tus{
+  background-color:red;
+  border:none;
+  color:white;
+   }
+ .button{
+ 	margin-top: 10px;
+ 	top:20px;
+ }
