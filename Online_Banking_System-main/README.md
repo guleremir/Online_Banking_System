@@ -13,7 +13,7 @@ JSP used for User Interface
 JPA , Hibernate used
 Database Used MySQL
 
-#PROJECT RUN COMMAND
+# PROJECT RUN COMMAND
 - download zip forder
 - unzip and open folder with netbeans/eclipse ide
 - create a database name online_banking_system in mySQL
